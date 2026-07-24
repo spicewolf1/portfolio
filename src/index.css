@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-base: #fbf7f0;
+  --color-ink: #33302a;
+  --color-accent: #5eb8d9;
+  --color-accent-warm: #ffd166;
+  --font-display: 'Baloo 2', sans-serif;
+  --font-body: 'Nunito Sans', sans-serif;
+}
