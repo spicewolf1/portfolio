@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Header from './components/Header.jsx'
-import Home from './pages/Home.jsx'
-import Portfolio from './pages/Portfolio.jsx'
-import Blog from './pages/Blog.jsx'
-import Contact from './pages/Contact.jsx'
+import Header from './components/Header.tsx'
+import Home from './pages/Home.tsx'
+import Portfolio from './pages/Portfolio.tsx'
+import Blog from './pages/Blog.tsx'
+import Contact from './pages/Contact.tsx'
 
 function App() {
   return (
